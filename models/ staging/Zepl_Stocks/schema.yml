@@ -1,0 +1,6 @@
+version: 2
+
+models:
+  - name: stg_stock_history
+  - name: stg_stock_latest
+  - name: stg_company_profile

@@ -8,6 +8,6 @@ sources:
 
 
     tables:
-      - name: STOCK_HISTORY
-      - name: COMPANY_PROFILE
-      - name: SYMBOLS
+      - name: stock_history
+      - name: company_profile
+      - name: symbols
