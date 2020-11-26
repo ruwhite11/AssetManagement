@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: zepl_us_stocks_daily
+    database: zepl_us_stocks_daily
+    schema: public
+    loader: sf_marketplace
+
+
+    tables:
+      - name: STOCK_HISTORY
+      - name: COMPANY_PROFILE
+      - name: SYMBOLS
