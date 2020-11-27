@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: traders
+  - name: watchlist
+  - name: trades
+  - name: position
+  - name: position_now
+
