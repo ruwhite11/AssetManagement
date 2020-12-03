@@ -1,6 +1,6 @@
 {{
   config(
-    materialized = 'incremental',
+    materialized = 'view',
     )
 }}
 select p.*, l.close, l.date,
