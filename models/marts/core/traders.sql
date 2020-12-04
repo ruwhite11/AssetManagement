@@ -14,4 +14,4 @@ with cte as
       where num = 1
       order by 2,1
 
-      limit 1000
+      limit 50
